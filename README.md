@@ -3,5 +3,4 @@
 Breakfast List:\
 • Milk\
 • Protein Whey\
-• cherry
-• cake
+• cherrybeans

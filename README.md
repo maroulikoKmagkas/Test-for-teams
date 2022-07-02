@@ -7,4 +7,4 @@ Breakfast List:\
 • strawberries\
 • beanszy\
 • cakeNoodles\
-• cherrybeans
+• cherrybeansz

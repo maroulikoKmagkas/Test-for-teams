@@ -5,6 +5,6 @@ Breakfast List:\
 • Protein Whey\
 • potatoes\
 • strawberries\
-• beans\
+• beanszy\
 • cakeNoodles\
 • cherrybeans

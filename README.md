@@ -7,4 +7,8 @@ Breakfast List:\
 • strawberries\
 • beanszy\
 • cakeNoodles\
+<<<<<<< Updated upstream
 • cherrybeansz
+=======
+• cherrybeanss
+>>>>>>> Stashed changes
